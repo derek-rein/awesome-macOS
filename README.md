@@ -355,6 +355,7 @@
 
 ### Video
 
+- [EXR Converter](https://vfx.systems/exr-converter) - Desktop app and CLI for EXR to video and video to EXR conversion, built for VFX dailies, review exports, and plate round-trips, with OpenColorIO color management, camera RAW support, slates and burn-ins. [![Open-Source Software][OSS Icon]](https://github.com/derek-rein/exr-converter) ![Freeware][Freeware Icon]
 - [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [IINA](https://lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 - [Mac Classic Player](https://mcp.kkweb.io/) - Media player driven by the keyboard, in the spirit of Media Player Classic. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ![Freeware][Freeware Icon]
